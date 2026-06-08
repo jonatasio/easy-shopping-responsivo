@@ -4,7 +4,7 @@ Landing page desenvolvida para praticar HTML5 e CSS3, com foco em estruturação
 
 ## 📸 Preview
 
-<img> src="https://github.com/jonatasio/easy-shopping-responsivo/blob/master/assets/desktop.png?raw=true" <img/>
+<img src="https://github.com/jonatasio/easy-shopping-responsivo/blob/master/assets/desktop.png?raw=true" />
 
 ## 🚀 Tecnologias
 
